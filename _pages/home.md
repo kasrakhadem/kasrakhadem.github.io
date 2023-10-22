@@ -1,14 +1,17 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+#title: "Kasra Khademorezaian"
+excerpt: "Home"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /home/
+  - /home.html
 ---
+I am currently a PhD candidate in Economics at the University of Oklahoma. My research focuses primarily on applied microeconomics, industrial organization, and the application of machine learning in economic contexts. My work has received recognition through prestigious awards, including the OU Dodge Family College of Arts and Sciences Dissertation Research and Completion Fellowships, as well as the Chong Liew Summer Research Award.  
 
+[Curriculum Vitae](/files/CV_OU.pdf)   
 
-You can download a PDF copy of my CV [here](/files/CV_OU.pdf).  
+Email: [kasrakhadem@ou.edu](mailto:kasrakhadem@ou.edu)
 
 <!-- Default Statcounter code for JobMarketWebsite
 https://kasrakhadem.github.io/ -->
