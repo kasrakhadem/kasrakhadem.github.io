@@ -1,6 +1,8 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+redirect_from: 
+  - /Teaching/
 ---
 ## The University of Oklahoma  
 - ECON 1113: Principles of Economics-Macro (Summer 2023)

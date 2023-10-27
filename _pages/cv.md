@@ -4,11 +4,12 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
+  - /CV/
 ---
 
 
-You can download a PDF copy of my CV [here](/files/CV_OU.pdf).  
+You can download a PDF copy of my CV [here](/files/CV_Kasra_Khademorezaian.pdf).  
 
 <!-- Default Statcounter code for JobMarketWebsite
 https://kasrakhadem.github.io/ -->

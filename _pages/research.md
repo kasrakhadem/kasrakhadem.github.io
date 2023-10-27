@@ -2,7 +2,8 @@
 
 title: "Research"
 permalink: /research/
-
+redirect_from: 
+  - /Research/
 ---
 <html>
 <head>
