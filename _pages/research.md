@@ -19,7 +19,7 @@ details > p {
 </head>
 <body>
 <h2>Job Market Paper</h2>
-<b>Networks, Platforms and Auction Pricing: Evidence from the NFT Art Market</b><br>
+<b>Networks, Platforms, and Auction Pricing: Evidence from the NFT Art Market</b><br>
 with Georgia Kosmopoulou and Carlos Lamarche
 <details>
   <summary>Abstract</summary>
@@ -29,9 +29,9 @@ with Georgia Kosmopoulou and Carlos Lamarche
 
 
 <!-- publication -->
-<h2>Publications</h2>  
-<a href="https://doi.org/10.1002/soej.12634"><b>Technology use, work adaptation and economic vulnerability during COVID-19</b></a> <br>
-with G. Kosmopoulou, S. Connely, Y. Gujar, M. Fichtel and H. Sun <br>
+<h2>Publication</h2>  
+<a href="https://doi.org/10.1002/soej.12634"><b>Technology Use, Work Adaptation, and Economic Vulnerability During COVID-19</b></a> <br>
+with G. Kosmopoulou, S. Connely, Y. Gujar, M. Fichtel, and H. Sun <br>
 <i>Southern Economic Journal, 90, 1 2023, 31-34.</i>
 <details>
   <summary>Abstract</summary>
@@ -39,17 +39,23 @@ with G. Kosmopoulou, S. Connely, Y. Gujar, M. Fichtel and H. Sun <br>
 </details>
 <h2>Working Papers</h2>
 <b>Network Dynamics in The US Airline Industry</b><br>
-with Lei He, Myongjin Kim and Georgia Kosmopoulou
+with Lei He, Myongjin Kim, and Georgia Kosmopoulou
 <details>
   <summary>Abstract</summary>
-  <p align="justify">We studied the evolution of subcontracting networks of airline carriers in the U.S. and the effect of COVID-19 on competition and cooperative behaviors in the airline industry. We show how shelter-in-place restrictions during the pandemic affected the market and altered the subcontracting networks of airlines. Using Bayesian estimation, we find the probability of link formation based on the rivals' network, past relationships, and types of service. Additionally, we examine the impact of shelter-in-place restrictions on the market exit decisions of regional airlines.</p>
+  <p align="justify">We study the evolution of subcontracting networks of airline carriers in the U.S. and the effect of COVID-19 on competition and cooperative behaviors in the airline industry. We show how shelter-in-place restrictions during the pandemic affected the market and altered the subcontracting networks of airlines. Using Bayesian estimation, we find the probability of link formation based on the rivals' network, past relationships, and types of service. Additionally, we examine the impact of shelter-in-place restrictions on the market exit decisions of regional airlines.</p>
 </details>
-
+<br>
+<b>Airline Route Networks and Subcontracting in the Pandemic Era</b><br>
+with Lei He, Myongjin Kim, Georgia Kosmopoulou, and Qihong Liu
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">We investigate the route network decisions made by airline carriers in the United States and the impact of pandemic-related restrictions on these networks. Our modeling approach enables us to examine airlines' decisions regarding the complete route network, instead of focusing on route choices at the market level. We estimate the likelihood of selecting a route network based on the past network, network of competitors, and characteristics of the routes.</p>
+</details>
 <h2>Works in Progress</h2>
-<p><b>Airline Route Networks and Subcontracting in the Pandemic Era</b><br>
-with Lei He, Myongjin Kim, Georgia Kosmopoulou and Qihong Liu</p>
-<b>Beyond value: Investigating reputation effect on resale prices in NFT auctions.</b><br>
-
+<b>Beyond value: Investigating reputation effect on resale prices in NFT auctions.</b>
+<br><br>
+<b>The Impact of Artificial Intelligence on Reallocation of High Skill Workers</b><br>
+with Pallab Ghosh
 
 </body>
 </html>
