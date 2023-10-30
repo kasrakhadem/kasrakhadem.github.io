@@ -16,11 +16,10 @@ I am a fifth-year Ph.D. candidate in Department of Economics at the University o
 As a graduate instructor, I have independently taught a variety of undergraduate courses at the University of Oklahoma. They include introductory courses in microeconomics and macroeconomics as well as an introductory course in statistics and an intermediate course in microeconomics.  I have also been a guest lecturer for a doctorate-level course on price and welfare theory. You can find more about my teaching experience [here](/teaching).
 
  
+[Curriculum Vitae](/files/CV_Kasra_Khademorezaian.pdf)  
 
-You can reach me via:
-
-[kasrakhadem@ou.edu](mailto:kasrakhadem@ou.edu)
-
+You can reach me via:  
+[kasrakhadem@ou.edu](mailto:kasrakhadem@ou.edu)  
 Department of Economics  
 308 Cate Center Drive, Room 235  
 Norman OK, 73072  
