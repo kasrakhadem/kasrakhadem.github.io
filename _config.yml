@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kasra Khademorezaian"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics at University of Oklahoma"
+  bio              : "PhD Candidate in Economics at The University of Oklahoma"
   location         : "Norman, Oklahoma"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  latsfm           :
   linkedin         : "kasrakhadem"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
@@ -114,7 +114,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
+  cv               : "/files/CV_Kasra_Khademorezaian.pdf" #[Curriculum Vitae](/files/CV_Kasra_Khademorezaian.pdf) 
 
 
 # Reading Files

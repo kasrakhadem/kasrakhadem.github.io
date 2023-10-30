@@ -9,14 +9,12 @@ redirect_from:
 ---
 I am a fifth-year Ph.D. candidate in Department of Economics at the University of Oklahoma. My primary research interests are applied microeconomics and industrial organization. I am also interested in the applications of machine learning in economics. I am currently on the job market and will be available for interviews on the 2023/24 market.
 
- My job market paper, entitled: “Networks, Platforms and Auction Pricing—Evidence from the NFT Art Market”, studies the impact of trading network, platform, and social media interactions on the price of the non-fungible tokens (NFTs) in decentralized markets.  Our findings suggest that the power to set prices rests largely with trading networks and platform connections, while their relative influence varies depending on the NFT's auction price. You may explore my other working papers and ongoing research [here](/research/).
+ My job market paper, entitled: “Networks, Platforms and Auction Pricing—Evidence from the NFT Art Market”, studies the impact of trading network, platform, and social media interactions on the price of the non-fungible tokens (NFTs) in decentralized markets. You may explore my other working papers and ongoing research [here](/research/).
 
  
 
 As a graduate instructor, I have independently taught a variety of undergraduate courses at the University of Oklahoma. They include introductory courses in microeconomics and macroeconomics as well as an introductory course in statistics and an intermediate course in microeconomics.  I have also been a guest lecturer for a doctorate-level course on price and welfare theory. You can find more about my teaching experience [here](/teaching).
-
  
-[Curriculum Vitae](/files/CV_Kasra_Khademorezaian.pdf)  
 
 You can reach me via:  
 [kasrakhadem@ou.edu](mailto:kasrakhadem@ou.edu)  
