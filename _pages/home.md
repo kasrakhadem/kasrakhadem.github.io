@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a fifth-year Ph.D. candidate in Department of Economics at the University of Oklahoma. My primary research interests are applied microeconomics and industrial organization. I am also interested in the applications of machine learning in economics. I am currently on the job market and will be available for interviews on the 2023/24 market.
 
- My job market paper, entitled: “Networks, Platforms and Auction Pricing—Evidence from the NFT Art Market”, studies the impact of trading network, platform, and social media interactions on the price of the non-fungible tokens (NFTs) in decentralized markets. You may explore my other working papers and ongoing research [here](/research/).
+ My job market paper, entitled: “Networks, Platforms, and Auction Pricing—Evidence from the NFT Art Market”, studies the impact of trading network, platform, and social media interactions on the price of the non-fungible tokens (NFTs) in decentralized markets. You may explore my other working papers and ongoing research [here](/research/).
 
  
 
