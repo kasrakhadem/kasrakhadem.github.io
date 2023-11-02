@@ -6,17 +6,17 @@ redirect_from:
 ---
 ## The University of Oklahoma  
 - ECON 1113: Principles of Economics-Macro (Summer 2023)
-    - [Syllabus](/files/Econ 1113 Syllabus Summer 2023.pdf) 
-    - [Evaluations](/files/SES Reports - Summer 2023.pdf)
+    - [Syllabus](/files/teaching/Econ 1113 Syllabus Summer 2023.pdf) 
+    - [Evaluations](/files/teaching/SES Reports - Summer 2023.pdf)
 - ECON 1123: Principles of Economics-Micro (Fall 2022)
-    - [Syllabus](/files/Econ 1123 Syllabus Fall 2022.pdf) 
-    - [Evaluations](/files/SES Reports - Fall 2022.pdf)
+    - [Syllabus](/files/teaching/Econ 1123 Syllabus Fall 2022.pdf) 
+    - [Evaluations](/files/teaching/SES Reports - Fall 2022.pdf)
 - ECON 2843: Elements of Statistics (Summer 2022)
-    - [Syllabus](/files/Econ 2843 Syllabus Summer 2022 - updated.pdf) 
-    - [Evaluations](/files/SES Reports - Summer 2022.pdf)
+    - [Syllabus](/files/teaching/Econ 2843 Syllabus Summer 2022 - updated.pdf) 
+    - [Evaluations](/files/teaching/SES Reports - Summer 2022.pdf)
 - ECON 3113: Intermediate Microeconomics (Summer 2021)
-    - [Syllabus](/files/Econ 3113 Syllabus Summer 2021.pdf) 
-    - [Evaluations](/files/eValuate Report - Summer 2021.pdf)
+    - [Syllabus](/files/teaching/Econ 3113 Syllabus Summer 2021.pdf) 
+    - [Evaluations](/files/teaching/eValuate Report - Summer 2021.pdf)
 
 
 
