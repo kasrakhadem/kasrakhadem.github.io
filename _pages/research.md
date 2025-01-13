@@ -18,13 +18,7 @@ details > p {
 </style>
 </head>
 <body>
-<h2>Job Market Paper</h2>
-<b>Networks, Platforms, and Auction Pricing: Evidence from the NFT Art Market</b><br>
-with Georgia Kosmopoulou and Carlos Lamarche
-<details>
-  <summary>Abstract</summary>
-  <p align="justify" >In this paper, we study the Non-fungible Token (NFT) art marketplace to gain insights into how trading networks, platform connections, and social media interactions impact prices. We focus on the interdependence among artists, collectors, and sellers, each with varying levels of influence and visibility. Our findings reveal differential effects on the price distribution: for lower-valued NFTs, seller trading networks primarily dictate prices, whereas for higher-valued NFTs, the influence of platform connections, specifically popularity, emerges as a critical pricing factor. Buyers often perceive extensive trading networks as validation for higher bids, while involvement in the platform community and social media interactions appear to have no bearing on prices. Our research underscores that in decentralized markets, the power to set prices rests to a large extent with trading networks and platform connections, while their relative influence varies based on the NFT's value.</p>
-</details>
+
 
 
 
@@ -38,6 +32,13 @@ with G. Kosmopoulou, S. Connely, Y. Gujar, M. Fichtel, and H. Sun <br>
   <p align="justify">We explore how technology use helped to cope with the stresses of social distancing during the pandemic contributing insights about the impact of work adaptation enabled by technology on economic vulnerability and resilience. Using a three-wave survey conducted across 10 states in the United States, we found evidence that a high level of technology use was linked to a greater chance of maintaining employment during the pandemic. We evaluate job retention as a function of an index based on the prevalence of information technology (IT) usage in the workplace and psychological and somatic well-being, controlling for technology use outside of the workplace, and socioeconomic and demographic characteristics.</p>
 </details>
 <h2>Working Papers</h2>
+<a href="https://dx.doi.org/10.2139/ssrn.5023411"><b>Networks, Platforms and Auction Pricing: Evidence from a Decentralized Online Market</b></a><br>
+with Georgia Kosmopoulou and Carlos Lamarche
+<details>
+  <summary>Abstract</summary>
+  <p align="justify" >In recent years, CryptoArt prices have surged to levels typically associated with renowned artists' works, a phenomenon both puzzling and understudied. This paper investigates how trading networks and platform connections influence prices in the digital art marketplace hosted on an online platform. We find that larger seller trading networks lead to higher auction prices for lower priced digital art, while platform connections play a critical role, especially for the most expensive pieces.  Our research underscores that in decentralized online markets, the power to set prices rests with trading networks and platform connections, with differential impact across the distribution of prices.</p>
+</details>
+<br>
 <b>Network Dynamics in The US Airline Industry</b><br>
 with Lei He, Myongjin Kim, and Georgia Kosmopoulou
 <details>

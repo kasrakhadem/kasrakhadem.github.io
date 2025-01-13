@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kasra Khademorezaian"
 title_separator          : "-"
 name                     : &name "Kasra Khademorezaian"
-description              : &description "PhD Candidate in Economics"
+description              : &description "Assistant Professor of Economics"
 url                      : https://kasrakhadem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kasrakhadem/kasrakhadem.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kasra Khademorezaian"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics at The University of Oklahoma"
-  location         : "Norman, Oklahoma"
+  bio              : "Assistant Professor of Economics at SUNY New Paltz"
+  location         : "New Paltz, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kasrakhadem@ou.edu"
+  email            : "khademok@newplatz.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
